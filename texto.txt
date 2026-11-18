@@ -1,0 +1,4 @@
+Python é uma linguagem de programação versátil.
+Este arquivo foi criado pelo script escrever.txt.py.
+A escrita em arquivos usa o modo 'w' do método open.
+Cada frase da lista vira uma linha do arquivo.
